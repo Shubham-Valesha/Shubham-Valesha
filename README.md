@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Valesha
 - 👀 I’m interested in tech and robots
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to like-minded-people
 - 📫 How to reach me **@ShubhamVDev** on *X(twitter)*
 - 😄 Pronoun: he
