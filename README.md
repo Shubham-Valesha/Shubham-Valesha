@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shubham-Valesha/Shubham-Valesha/output/snake.svg" alt="Snake animation" />
+
 
 ###
