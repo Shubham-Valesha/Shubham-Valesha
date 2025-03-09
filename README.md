@@ -60,16 +60,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQzYWpyeWFyczJibmp3YzR3d3g5NHFrcjQyMTdlMWYxMWp5Y2VqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiKk1erunr1nCzGSCY/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Valesha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham-Valesha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <br clear="both">
